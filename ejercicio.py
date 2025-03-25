@@ -1,3 +1,4 @@
 nombre = "Nicolas"
 apellildo = "Bonanno"
-print (f"Soy {nombre} {apellildo}")
+edad = 33
+print (f"Soy {nombre} {apellildo}, tengo {edad} años")
